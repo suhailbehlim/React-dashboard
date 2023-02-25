@@ -1,7 +1,7 @@
 {
   "name": "theme",
   "version": "0.1.0",
-  "homepage":"https://github.com/suhailbehlim/React-dashboard.git",
+  "homepage":"https://suhailbehlim.github.io/React-dashboard",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.6",
